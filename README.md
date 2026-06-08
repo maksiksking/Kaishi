@@ -4,11 +4,11 @@
 
 Ось так виглядає передня сторона колоди:
 
-<img src="https://github.com/maksiksq/KaishiUa/blob/main/pics/kaishi-front.png" alt="Передня частина картки KaishiUa 1.5k" style="width: 100%; height: auto">
+<img src="https://github.com/lethargistic/KaishiUa/blob/main/pics/kaishi-front.png" alt="Передня частина картки KaishiUa 1.5k" style="width: 100%; height: auto">
 
 Ось вивчаємо слово і речення до цього слова. Далі відкриваємо карточку, і на задній стороні бачимо його значення та переклад речення:
 
-<img src="https://github.com/maksiksq/KaishiUa/blob/main/pics/kaishiua-back.png" alt="Задня частина картки KaishiUa 1.5k" style="width: 100%; height: auto"> 
+<img src="https://github.com/lethargistic/KaishiUa/blob/main/pics/kaishiua-back.png" alt="Задня частина картки KaishiUa 1.5k" style="width: 100%; height: auto"> 
 Обираєш чи ти знаєш, чи пам'ятаєш це слово, повторюєш і починаєш вивчати, по трошки.
 
 ### Зміст цієї сторінки
@@ -164,13 +164,13 @@ Kaishi - 開始, що значить "початок". Це навіть не б
 Yuashi - 湯足, що може значити "ванна для ніг".
 
 ## Помилки та пропозиції
-Якщо знайшли якусь помилку, створіть пост на github issue трекері [ось тут](https://github.com/maksiksq/KaishiUa/issues). <br/>
+Якщо знайшли якусь помилку, створіть пост на github issue трекері [ось тут](https://github.com/lethargistic/KaishiUa/issues). <br/>
 В колоді є суржик, і так задумано. Крім того, пропущено кілька потрібних за правописом ком, бо вони лишні.
 
 ## Подяки
 Це переклад [Kaishi 1.5k](https://github.com/donkuri/Kaishi), і вічна вдячність всім її авторам за таку чудову колоду.
 
-- [Maksiks](https://github.com/maksiksq) - ручний переклад всіх слів, і речень, і приміток, і приміток до інтонаційних наголосів, і цієї сторінки, і скільки я вже випив чашок чаю, дайте поспати, рятуйте.
+- [Lethargistic](https://github.com/lethargistic) - ручний переклад всіх слів, і речень, і приміток, і приміток до інтонаційних наголосів, і цієї сторінки, і скільки я вже випив чашок чаю, дайте поспати, рятуйте.
 - Всі хто працювали над [оцим](https://shron1.chtyvo.org.ua/Bondarenko_Ivan/Yaponsko-ukrainskyi_slovnyk.pdf?) більш-менш нормальним словником. Він знадобився, щоб покращити доречність деяких перекладів.
 
 
